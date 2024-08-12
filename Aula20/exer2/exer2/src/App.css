@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+h2{
+  color: black;
+  font-size: 30px;
+ }
+
+.Container {
+  width: 30vw;
+  height: 50vh;
+  text-align: center;
+  background:linear-gradient(to right, rgb(87, 230, 199), rgb(15, 30, 99));
+  border-radius: 10px;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+
+}
+
+.containerMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: cornsilk;
+  
+  display: flex;
+}
+ 
+.usuario{
+  background:linear-gradient(to right, rgb(87, 230, 199), rgb(15, 30, 99));
+  width: 20vw;
+  height: 20vh;
+ margin-top: 35px;
+ float: left;
+ align-items: center;
+ flex-direction: column;
+ padding: 15px;
+ margin: 35px 0;
+ border-radius: 10px;
+
+}
+
+.Login{
+  font-size: large;
+  margin-top: 20px;
+  text-align: center;
+}
+.Button{
+  width: 30vw;
+}
+ 
+h2{
+  float: left;
+}
+  
+
+
